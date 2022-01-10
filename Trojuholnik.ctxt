@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Trojuholnik
+comment0.text=\r\n\ Trieda\ z\ cvi\u010Den\u00ED\r\n\ Rovnoramenn\u00FD\ trojuholn\u00EDk,\ s\ ktor\u00FDm\ mo\u017Eno\ pohybova\u0165\ a\ nakresl\u00ED\ sa\ na\ pl\u00E1tno.\r\n\ \r\n\ @author\ \ Michael\ Kolling\ and\ David\ J.\ Barnes\r\n\ @version\ 1.0\ \ (15\ July\ 2000)\r\n
+comment1.params=vyska\ zakladna\ x\ y
+comment1.target=Trojuholnik(int,\ int,\ int,\ int)
+comment1.text=\r\n\ Vytvor\ nov\u00FD\ rovnoramenn\u00FD\ trojuholn\u00EDk\ preddefinovanej\ farby\ na\ preddefinovanej\ poz\u00EDcii.\r\n
+comment2.params=vzdialenost
+comment2.target=void\ posunZvisle(int)
+comment2.text=\r\n\ (Trujuholn\u00EDk)\ Posu\u0148\ sa\ zvisle\ o\ d\u013A\u017Eku\ dan\u00FA\ parametrom.\r\n
+comment3.params=
+comment3.target=void\ zobraz()
+comment3.text=\r\n\ (Trujuholn\u00EDk)\ Zobraz\ sa.\r\n
+comment4.params=
+comment4.target=void\ skry()
+comment4.text=\r\n\ (Trujuholn\u00EDk)\ Skry\ sa.\r\n
+comment5.params=farba
+comment5.target=void\ zmenFarbu(java.lang.String)
+comment5.text=\r\n\ (Trujuholn\u00EDk)\ Zme\u0148\ farbu\ na\ hodnotu\ dan\u00FA\ parametrom.\r\n\ Nazov\ farby\ mus\u00ED\ by\u0165\ po\ anglicky.\r\n\ Mo\u017En\u00E9\ farby\ s\u00FA\ tieto\:\r\n\ \u010Derven\u00E1\ -\ "red"\r\n\ \u017Elt\u00E1\ \ \ \ -\ "yellow"\r\n\ modr\u00E1\ \ \ -\ "blue"\r\n\ zelen\u00E1\ \ -\ "green"\r\n\ fialov\u00E1\ -\ "magenta"\r\n\ \u010Dierna\ \ -\ "black"\r\n
+comment6.params=
+comment6.target=void\ nakresli()
+comment6.text=\r\n\ Draw\ the\ triangle\ with\ current\ specifications\ on\ screen.\r\n
+comment7.params=
+comment7.target=void\ zmaz()
+comment7.text=\r\n\ Erase\ the\ triangle\ on\ screen.\r\n
+numComments=8

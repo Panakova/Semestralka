@@ -1,0 +1,15 @@
+LAHKA 5 Reba
+LAHKA 23 Beata
+LAHKA 10 Skuska
+LAHKA 3 Juraj
+LAHKA 7 Juraj
+LAHKA 32 sarca
+LAHKA 8 reba
+LAHKA 31 reba
+LAHKA 3 reba
+STREDNA 25 rebka
+STREDNA 19 Sarca
+STREDNA 3 lubka
+STREDNA 4 Nezadane
+TAZKA 3 Skuska
+TAZKA 5 Juraj

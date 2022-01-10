@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Narocnost
+comment0.text=\r\n\ Enum\ N\u00E1ro\u010Dnos\u0165\ obsahuje\ predvolen\u00E9\ hodnoty\ pre\ n\u00E1ro\u010Dnos\u0165.\ extenzie\ triedy\ obsahuj\u00FA\r\n\ \u010D\u00EDslo\ pre\ \u010Dasova\u010D.\ \r\n\ \r\n\ @author\ (Rebeka\ Pan\u00E1kov\u00E1)\ \r\n\ @version\ (28.12.2021)\r\n
+comment1.params=cislo
+comment1.target=Narocnost(double)
+comment1.text=\r\n\ @param\ cislo\ nastav\u00ED\ \u010D\u00EDslo\ pre\ jednotliv\u00E9\ objekty\ triedy\r\n
+comment2.params=narocnost
+comment2.target=double\ getCislo(Narocnost)
+comment2.text=\r\n\ @param\ narocnost\ ud\u00E1\ kor\u00E9mu\ objektu\ chceme\ zisti\u0165\ priraden\u00E9\ \u010D\u00EDslo\r\n\ @return\ cislo\ vr\u00E1ti\ \u010D\u00EDslo\ priraden\u00E9\ danej\ n\u00E1ro\u010Dnosti\r\n
+numComments=3

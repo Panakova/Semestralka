@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ Trieda\ Main\ spust\u00ED\ aplik\u00E1ciu\r\n\ \r\n\ @author\ (Rebeka\ Pan\u00E1kov\u00E1)\ \r\n\ @version\ (18.12.2021)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ met\u00F3da\ main\ vytvor\u00ED\ jedin\u00FA\ in\u0161tanciu\ triedy\ Hra\ a\ spust\u00ED\ ju\r\n
+numComments=2

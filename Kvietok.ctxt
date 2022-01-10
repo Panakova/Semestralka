@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Kvietok
+comment0.text=\r\n\ Trieda\ Kvietok\ vytvor\u00ED\ jedin\u00FA\ in\u0161tanciu\ kvietku,\ ktor\u00FDm\ pou\u017E\u00EDva\u0165e\u013E\ hr\u00E1\ hru.\ \r\n\ \r\n\ @author\ (Rebeka\ Pan\u00E1kov\u00E1)\ \r\n\ @version\ (28.12.2021)\r\n
+comment1.params=
+comment1.target=Kvietok()
+comment1.text=\r\n\ Priv\u00E1tny\ kon\u0161truktor\ vytvor\u00ED\ in\u0161tanciu\ triedy\r\n
+comment2.params=
+comment2.target=Kvietok\ vytvorKvietok()
+comment2.text=\r\n\ Singleton\ kontroluje\ \u010Di\ je\ vytvoren\u00E1\ in\u0161tancia\ triedy,\ ak\ nie\ vyvol\u00E1\ kon\u0161truktor\r\n
+comment3.params=
+comment3.target=void\ posunVpravo()
+comment3.text=\r\n\ \u0161\u00EDpkami\ ovladan\u00E9\ pr\u00EDkazy\ na\ posun\ v\ rozmedz\u00ED\ hraej\ plochy\r\n
+comment4.params=
+comment4.target=void\ posunVlavo()
+comment4.text=\r\n\ \u0161\u00EDpkami\ ovladan\u00E9\ pr\u00EDkazy\ na\ posun\ v\ rozmedz\u00ED\ hraej\ plochy\r\n
+comment5.params=
+comment5.target=int\ getPozX()
+comment5.text=\r\n\ @return\ poz\u00EDciu\ x,\ na\ ktorej\ sa\ pr\u00E1ve\ nach\u00E1dza\r\n
+comment6.params=
+comment6.target=int\ getPozY()
+comment6.text=\r\n\ @return\ poz\u00EDciu\ y,\ na\ ktorej\ sa\ pr\u00E1ve\ nach\u00E1dza\r\n
+numComments=7
